@@ -1,3 +1,3 @@
 # obvTiger.ch
 Bug Reports
-To report an issue/bug or a enhancement click this like: https://github.com/obvTiger/obvTiger.ch/issues
+to report an issue, bug or a enhancement click this link: https://github.com/obvTiger/obvTiger.ch/issues
